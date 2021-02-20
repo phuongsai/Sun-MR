@@ -53,7 +53,7 @@ Tập hợp các __Documents__ chung được nhóm thành 1 __Collections__ nh�
 
 ### Dữ liệu lưu trữ
 
-
+![collection-documents-demo](https://images.viblo.asia/dedd0b70-75e0-4f1d-8315-de7d08febb9f.png)
 
 
 ```
